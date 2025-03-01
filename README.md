@@ -22,4 +22,4 @@ This is an Android application built using **Kotlin** that fetches user data fro
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/UserListApp.git
+   git clone https://github.com/amjad-awad-allah/UserListApp.git
