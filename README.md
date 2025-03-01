@@ -19,6 +19,12 @@ This is an Android application built using **Kotlin** that fetches user data fro
 - **Data Management**: ViewModel, Repository
 - **State Management**: LiveData or StateFlow
 
+## Screenshots
+
+Here are some screenshots of the app:
+
+![Home Screen](screenshots/Screenshot_20250301_024816.png "Home Screen")
+![User List](screenshots/Screenshot_20250301_024841.png "User List")
 ## How to Run
 1. Clone the repository:
    ```bash
