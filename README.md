@@ -23,8 +23,8 @@ This is an Android application built using **Kotlin** that fetches user data fro
 
 Here are some screenshots of the app:
 
-![Home Screen](screenshots/Screenshot_20250301_024816.png "Home Screen")
-![User List](screenshots/Screenshot_20250301_024841.png "User List")
+![Home Screen](screenshots/Screenshot_20250301_024816.png  =50%"Home Screen")
+![User List](screenshots/Screenshot_20250301_024841.png  =50%"User List")
 ## How to Run
 1. Clone the repository:
    ```bash
